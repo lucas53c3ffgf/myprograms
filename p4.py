@@ -12,4 +12,5 @@ while start< new_stop:
         else: 
             factor_count += 1 
     start += 1 
+    
 print(f"{end} has{factor_count} many factors.")
